@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ECOMER Admin</string>
+    <string name="login_title">E-Commerce Admin</string>
+    <string name="login_subtitle">Đăng nhập để quản lý hệ thống sản phẩm</string>
+    <string name="email_hint">Email đăng nhập</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="err_empty_email">Vui lòng nhập email</string>
+    <string name="err_empty_password">Vui lòng nhập mật khẩu</string>
+    <string name="err_login_failed">Đăng nhập thất bại: </string>
+    <string name="title_product_management">Quản lý sản phẩm</string>
+    <string name="btn_add_product">THÊM SẢN PHẨM</string>
+    <string name="btn_save_changes">LƯU THAY ĐỔI</string>
+    <string name="btn_cancel">HỦY</string>
+    <string name="btn_preview_image">XEM ÁNH</string>
+    <string name="btn_logout">Đăng xuất</string>
+    <string name="product_name_hint">Tên sản phẩm</string>
+    <string name="product_category_hint">Loại sản phẩm (Ví dụ: Thời trang, Điện thoại...)</string>
+    <string name="product_price_hint">Giá sản phẩm (VNĐ)</string>
+    <string name="product_image_url_hint">URL hình ảnh (https://...)</string>
+    <string name="preview_image_title">Xem trước hình ảnh</string>
+    <string name="product_list_title">Danh sách sản phẩm</string>
+    <string name="empty_product_list">Chưa có sản phẩm nào trong hệ thống</string>
+    <string name="delete_confirm_title">Xác nhận xóa</string>
+    <string name="delete_confirm_msg">Bạn có chắc chắn muốn xóa sản phẩm này không?</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="role_admin">Mạng quản trị (Admin)</string>
+    <string name="role_user">Người dùng (User)</string>
+    <string name="no_admin_permission">Rất tiếc! Tài khoản của bạn không có quyền Admin để thực hiện thao tác này.</string>
+</resources>
